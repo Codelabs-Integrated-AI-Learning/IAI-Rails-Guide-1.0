@@ -4,8 +4,14 @@ Welcome! This repo teaches you full-stack Rails 8 by running code, encountering 
 
 ## 🚦 Step-by-Step: Getting Started with the Copilot Agent in VS Code
 
-1. **Fork this repo** to your own GitHub account.
-2. **Clone your fork locally** and open the folder in VS Code.
+1. **Clone this repository to your local machine:**
+
+```bash
+git clone https://github.com/Norbok7/IAI-Rails-Guide-1.0
+cd IAI-Rails-Guide-1.0
+```   
+2. **Open the project folder in Visual Studio Code.**
+
 3. **Make sure the `milestones.md` file stays in the project root.**
    - This file more or less contains `bestpractice.md` and `milestones.md`, which the Copilot Agent uses to guide your learning. Do not move or delete it.
 4. **Install the GitHub Copilot and Copilot Chat extensions** from the VS Code Marketplace if you haven't already.
